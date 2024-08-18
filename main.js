@@ -369,7 +369,11 @@ let quotes = [
 
 
 ];
-const segmentAngle = 720 / segments.length;
+// Initialize an array to keep track of previously displayed quotes for each segment
+let previousQuotes = new Array(segments.length).fill(null);
+
+// Calculate the angle of each segment based on the number of segments
+const segmentAngle = 360 / segments.length;
 
 btn.onclick = function() {
     // Generate a random rotation increment between 360 and 720 degrees
@@ -384,13 +388,13 @@ btn.onclick = function() {
     setTimeout(() => {
         // Calculate which segment the wheel stops at
         let finalRotation = currentRotation % 360; // Get the rotation within 360 degrees
-        let segmentIndex = Math.floor((finalRotation + (segmentAngle / 2)) / segmentAngle) % segments.length; // Center of the segment
+        let segmentIndex = Math.floor((360 - finalRotation) / segmentAngle) % segments.length;
 
         // Display the result
         resultBtn.textContent = `Result: ${segments[segmentIndex]}`;
 
         // Get a random quote for the result
-let segmentQuotes = quotes[segmentIndex];
+        let segmentQuotes = quotes[segmentIndex];
         let randomQuote;
         
         // Ensure the quote is different from the previous one

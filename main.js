@@ -179,7 +179,7 @@ let quotes = [
     "So please show me Hackney; Doesn't have to be Louis V up on Bond Street; Just wanna be with you; I, I, I fancy you, oh",
     "We were crazy to think; Crazy to think that this could work; Remember how I said I'd die for you?",
     "I know heaven's a thing; I go there when you touch me; Honey hell is when I fight with you",
-    "But you're taking shots at me like it's Patrón; And I'm just like 'Damn, it's 7:00 a.m.'",
+    "But you're taking shots at me like it's PatrÃ³n; And I'm just like 'Damn, it's 7:00 a.m.'",
     "Like, can you just not step on our gowns?; You need to calm down",
     "I blew things out of proportion, now you're blue; Put you in jail for something you didn't do; I pinned your hands behind your back, oh; Thought I had reason to attack, but no",
     "Fighting with a true love is boxing with no gloves; Chemistry 'til it blows up, 'til there's no us; Why'd I have to break what I love so much?; It's on your face, and I'm to blame",
@@ -193,7 +193,7 @@ let quotes = [
     // Quotes for "Folklore"
     [
         "And if my wishes came true; It would've been you; In my defense, I have none",
-        "We were something, don't you think so?; Rosé flowing with your chosen family; And it would've been sweet; If it could've been me",
+        "We were something, don't you think so?; RosÃ© flowing with your chosen family; And it would've been sweet; If it could've been me",
         "And when I felt like I was an old cardigan; Under someone's bed; You put me on and said I was your favorite",
         "But I knew you'd linger like a tattoo kiss; I knew you'd haunt all of my what-ifs; The smell of smoke would hang around this long; 'Cause I knew everything when I was young; I knew I'd curse you for the longest time; Chasin' shadows in the grocery line; I knew you'd miss me once the thrill expired; And you'd be standin' in my front porch light; And I knew you'd come back to me",
         "And they said 'There goes the last great American dynasty; Who knows, if she never showed up, what could've been; There goes the maddest woman this town has ever seen; She had a marvelous time ruining everything'",
@@ -271,7 +271,7 @@ let quotes = [
     // Quotes for "Midnights"
     [
         "Talk your talk and go viral; I just need this love spiral; Get it off your chest; Get it off my desk (get it off my desk); Talk your talk and go viral; I just need this love spiral; Get it off your chest; Get it off my desk",
-        "When the morning came we were cleaning incense off your vinyl shelf; 'Cause we lost track of time again; Laughing with my feet in your lap; Like you were my closest friend; 'How'd we end up on the floor anyway?' You say; 'Your roommate's cheap-ass screw-top rosé, that's how'; I see you every day now",
+        "When the morning came we were cleaning incense off your vinyl shelf; 'Cause we lost track of time again; Laughing with my feet in your lap; Like you were my closest friend; 'How'd we end up on the floor anyway?' You say; 'Your roommate's cheap-ass screw-top rosÃ©, that's how'; I see you every day now",
         "And I wake with your memory over me; That's a real fucking legacy to leave",
         "The burgundy on my T-shirt when you splashed your wine into me; And how the blood rushed into my cheeks, so scarlet (it was maroon); The mark you saw on my collarbone, the rust that grew between telephones; The lips I used to call home, so scarlet (it was maroon); It was maroon",
         "I have this thing where I get older but just never wiser",
@@ -353,12 +353,12 @@ let quotes = [
     "Main Agar Kahoon; Humsafar Meri; Apsara Ho Tum Ya Koi Pari; Tareef Yeh Bhi To Sach Hai Kuch Bhi Nahi........HAPPY BIRTHDAY my own shanti priya, Rushil",
     "She a girl I saw for the first time but never knew she would become an inseparable part of my life; She is the only person I can trust like my personal diary; Even if we have some distances in between, she stays the same as if it was yesterday we met. Promita",
     "Udita saying you're very nice would be an understatement really. You're very patient and understanding (Allahumma barik). I've been very rude to you yet you're so nice to me T T. Thank you. I really respect you for this. Nah, I respect you as a human. If I had a list of people I respect a lot, you'd be in the top 3 easily. Sadida",
-    "I’m not sure if anyone has ever told you how charismatic you are! You've got all the rizz frfr yeehaw! <3 Tbvh, you are one of the most genuine souls I know. You're the type of person that everyone wants to befriend. I don't know if I deserve to be your friend, but I'm just glad I know you ehe <3 Also I know I'm not the best at expressing myself (thanks to my tone and RBF), but I really adore you, bubooooooooooo! Thanks for existing and for being my girl crush, ehehe! May Allah bless you, ameen; Happy birthday, Prioti Pookie!; (btw ami ki tomar bondhu ehe?), Rifah",
+    "IÂ’m not sure if anyone has ever told you how charismatic you are! You've got all the rizz frfr yeehaw! <3 Tbvh, you are one of the most genuine souls I know. You're the type of person that everyone wants to befriend. I don't know if I deserve to be your friend, but I'm just glad I know you ehe <3 Also I know I'm not the best at expressing myself (thanks to my tone and RBF), but I really adore you, bubooooooooooo! Thanks for existing and for being my girl crush, ehehe! May Allah bless you, ameen; Happy birthday, Prioti Pookie!; (btw ami ki tomar bondhu ehe?), Rifah",
     "Happy birthday Udita!! I honestly never thought we would get THIS close like now but it's much more than I ever wanted. You are my favourite person in the entire university! LOVE YOU LOTSSS <3 (real), Bipasha",
     "Hello Udipi, prothom e janai notun bochor er shuveccha. You are one of my comfort zone bro. And is a bookworm, I want to give a pov and that is:- The energy came off her and illuminated everything and everyone around her. Thanks to my Almighty for letting me know this beautiful soul <3 from an excellence soul. Nowsin (this was written in Bangla)",
-    "1. Udita is a great listener; not just in the way that she listens with such attention, but also knowing exactly how to react and respond to every word you're saying. 2. She's a human equivalent of a safety vault. From your most prized possessions to your deepest darkest secrets, she'll make sure they're kept safe. 3. I haven't met many people who manage to see the good in everyone like she does. 4. And she has a circle of friends that reflects the essence of who she is—joyous, graceful, and radiant, with all those qualities amplified many times over in their presence. Puspita Apu on your admirable qualities",
-    "If you don’t understand anything, I will explain it to you twice. If you’re having a bad day, I’ll bring milkshake with ice. Towaha",
-    "Priota is undoubtedly one of the prettiest persons I've ever seen, but it’s her kindness and confidence that truly reveals her inner beauty. And she is so open-minded that I can literally share anything without fear of judgment <3. Semonti Apu",
+    "1. Udita is a great listener; not just in the way that she listens with such attention, but also knowing exactly how to react and respond to every word you're saying. 2. She's a human equivalent of a safety vault. From your most prized possessions to your deepest darkest secrets, she'll make sure they're kept safe. 3. I haven't met many people who manage to see the good in everyone like she does. 4. And she has a circle of friends that reflects the essence of who she isÂ—joyous, graceful, and radiant, with all those qualities amplified many times over in their presence. Puspita Apu on your admirable qualities",
+    "If you donÂ’t understand anything, I will explain it to you twice. If youÂ’re having a bad day, IÂ’ll bring milkshake with ice. Towaha",
+    "Priota is undoubtedly one of the prettiest persons I've ever seen, but itÂ’s her kindness and confidence that truly reveals her inner beauty. And she is so open-minded that I can literally share anything without fear of judgment <3. Semonti Apu",
     "You're one of the most considerate people I know. The sweetest ball of sunshine. Thank you for always checking on me. Love you <3. Riana",
     "Udita. Before I say anything, I must speak about how your quirks make you so adorable and fun. Yes, you're not the typical definition of fun, but I very much like your version. (I thought of All Too Well Taylor's version with that jdkdkkdkd). Sumaiya",
     "You know, your way of hyping someone up oddly reminds me of the shade of a large tree, with occasional light breezes. It's subtle and comforting. But whenever the breeze stops for a while, you find yourself wondering how nice it was. Please know that your actions don't go unnoticed, but often, they remain in the background. Sumaiya",
@@ -390,7 +390,18 @@ btn.onclick = function() {
         resultBtn.textContent = `Result: ${segments[segmentIndex]}`;
 
         // Get a random quote for the result
-        let randomQuote = quotes[segmentIndex][Math.floor(Math.random() * quotes[segmentIndex].length)];
+let segmentQuotes = quotes[segmentIndex];
+        let randomQuote;
+        
+        // Ensure the quote is different from the previous one
+        do {
+            randomQuote = segmentQuotes[Math.floor(Math.random() * segmentQuotes.length)];
+        } while (previousQuotes[segmentIndex] === randomQuote && segmentQuotes.length > 1);
+
+        // Update the previous quote for this segment
+        previousQuotes[segmentIndex] = randomQuote;
+        
+        // Display the quote
         quoteDisplay.textContent = randomQuote;
     }, 5000); // Time should match the spinning duration (5 seconds)
 }

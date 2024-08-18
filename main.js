@@ -369,7 +369,6 @@ let quotes = [
 
 
 ];
-// Initialize an array to keep track of previously displayed quotes for each segment
 let previousQuotes = new Array(segments.length).fill(null);
 
 // Calculate the angle of each segment based on the number of segments
@@ -388,7 +387,7 @@ btn.onclick = function() {
     setTimeout(() => {
         // Calculate which segment the wheel stops at
         let finalRotation = currentRotation % 360; // Get the rotation within 360 degrees
-        let segmentIndex = Math.floor((360 - finalRotation) / segmentAngle) % segments.length;
+        let segmentIndex = Math.floor(((360 - finalRotation) % 360) / segmentAngle);
 
         // Display the result
         resultBtn.textContent = `Result: ${segments[segmentIndex]}`;

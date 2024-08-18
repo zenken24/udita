@@ -405,4 +405,3 @@ btn.onclick = function() {
     }, 5000); // Time should match the spinning duration (5 seconds)
 }
 }
-
